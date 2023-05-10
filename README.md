@@ -1,6 +1,6 @@
-# flutter_application_1
+# HabitFlow
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
